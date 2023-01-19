@@ -63,6 +63,6 @@ My **skills ** are:
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Alim7613&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Alim7613&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Alim7613&theme=dark)]
 
 
