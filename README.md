@@ -20,7 +20,7 @@ My **skills ** are:
 - laravel
 - livewire
 
-[![Cult Of Martians][cult-img]][cult]
+# lg [![Cult Of Martians][cult-img]][cult]
 
 <div align="center">
   <a href="https://github.com/Alim7613">
@@ -55,5 +55,14 @@ My **skills ** are:
 </picture>
 
 
+
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Alim7613&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Alim7613&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Alim7613&theme=dark)](https://git.io/streak-stats)
 
 
