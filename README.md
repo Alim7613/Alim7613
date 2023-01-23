@@ -20,7 +20,7 @@ My **skills ** are:
 - laravel
 - livewire
 
-<img align="right" alt="Alim7613-pic" height="150" style="border-radius:50px;" src="./img/laravel.gif">
+<img align="right" alt="Alim7613-pic" height="150" style="border-radius:50%;" src="./img/laravel.gif">
 
 
 
