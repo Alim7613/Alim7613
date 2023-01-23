@@ -1,10 +1,10 @@
 ### Hi guys 👋
 
-<style>
+
 img[src$="#block"] {
   border-radius: 50%;
 }
-</style>
+
 
 - 🔭 I’m currently working on my big project.
 - 🌱 I’m currently learning Laravel, Vue and AI.
