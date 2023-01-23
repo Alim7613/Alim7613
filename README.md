@@ -1,6 +1,10 @@
 ### Hi guys 👋
 
-
+<style>
+img[src$="#block"] {
+  border-radius: 50%;
+}
+</style>
 
 - 🔭 I’m currently working on my big project.
 - 🌱 I’m currently learning Laravel, Vue and AI.
@@ -20,9 +24,9 @@ My **skills ** are:
 - laravel
 - livewire
 
-<img align="right" alt="Alim7613-pic" height="150" style="border-radius:50%;" src="./img/laravel.gif">
+<img alt="Alim7613-pic" height="150" style="border-radius:50%;" src="./img/laravel.gif">
 
-
+![Block image](./img/laravel.gif#block)
 
 
 <div align="center">
