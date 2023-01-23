@@ -1,10 +1,6 @@
 ### Hi guys 👋
 
 
-img[src$="#block"] {
-  border-radius: 50%;
-}
-
 
 - 🔭 I’m currently working on my big project.
 - 🌱 I’m currently learning Laravel, Vue and AI.
@@ -24,9 +20,20 @@ My **skills ** are:
 - laravel
 - livewire
 
+<img alt="Alim7613-pic" height="150" style="border-radius:50%;" src="./img/html.gif">
+<img alt="Alim7613-pic" height="150" style="border-radius:50%;" src="./img/css.gif">
+<img alt="Alim7613-pic" height="150" style="border-radius:50%;" src="./img/Bootstrap.gif">
+<img alt="Alim7613-pic" height="150" style="border-radius:50%;" src="./img/tailwind.gif">
+<img alt="Alim7613-pic" height="150" style="border-radius:50%;" src="./img/js.gif">
+<img alt="Alim7613-pic" height="150" style="border-radius:50%;" src="./img/jquery.gif">
+<img alt="Alim7613-pic" height="150" style="border-radius:50%;" src="./img/node.gif">
+<img alt="Alim7613-pic" height="150" style="border-radius:50%;" src="./img/vue.gif">
+<img alt="Alim7613-pic" height="150" style="border-radius:50%;" src="./img/react.gif">
+<img alt="Alim7613-pic" height="150" style="border-radius:50%;" src="./img/php.gif">
+<img alt="Alim7613-pic" height="150" style="border-radius:50%;" src="./img/mysql.gif">
 <img alt="Alim7613-pic" height="150" style="border-radius:50%;" src="./img/laravel.gif">
+<img alt="Alim7613-pic" height="150" style="border-radius:50%;" src="./img/wordpress.gif">
 
-![Block image](./img/laravel.gif#block)
 
 
 <div align="center">
